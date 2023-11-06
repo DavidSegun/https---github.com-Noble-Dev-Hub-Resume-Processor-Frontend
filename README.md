@@ -27,7 +27,7 @@ Signal State Management 📡: Manage application state using Signal, a lightweig
 Eslint and Prettier ✨: Maintain code quality and consistency with Eslint and Prettier.
 
 Getting Started 🚀
-Clone the repository: git clone https://github.com/your-username/resume-processor-project.git
+Clone the repository: git clone https://github.com/Noble-Dev-Hub/Resume-Processor-Frontend
 
 Install dependencies: npm install
 
