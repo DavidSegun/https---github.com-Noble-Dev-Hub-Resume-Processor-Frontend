@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to the Resume Processor Project 🚀
 
-## Getting Started
+This project is a comprehensive resume processor that helps you extract, search, and compare resumes efficiently. 👋
 
-First, run the development server:
+Features ✨
+Resume Uploading 📑: Easily upload resumes in various formats, including PDF, DOCX, and TXT.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Resume Parsing and Information Extraction 🔎: Extract key information from resumes, such as name, contact details, skills, and experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Resume Search and Filtering 🔍: Search for resumes using keywords, skills, experience, and more. Filter results based on specific criteria.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Resume Comparison ⚖️: Compare resumes side-by-side to identify the most suitable candidates for your openings.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Technologies 🛠️
+Next.js 13 ⚛️: Build a performant and SEO-friendly frontend.
 
-## Learn More
+Tailwind CSS 💨: Style your application with ease using the Tailwind CSS utility framework.
 
-To learn more about Next.js, take a look at the following resources:
+TypeScript 🦾: Ensure type safety and code maintainability with TypeScript.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Radix UI 🌈: Utilize Radix UI's collection of accessible and unstyled UI components.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Sanity CMS 🦄: Manage your resume data with Sanity CMS, a user-friendly headless CMS.
 
-## Deploy on Vercel
+Signal State Management 📡: Manage application state using Signal, a lightweight and performant state management library.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Eslint and Prettier ✨: Maintain code quality and consistency with Eslint and Prettier.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Getting Started 🚀
+Clone the repository: git clone https://github.com/your-username/resume-processor-project.git
+
+Install dependencies: npm install
+
+Run the development server: npm run dev
+
+Open the application in a web browser: http://localhost:3000
+
+Contributing 👋
+We welcome contributions to this project! Please read the contributing guidelines before submitting a pull request.
+
+License ⚖️
+This project is licensed under the MIT License.
+
+Happy resume processing! 💼
